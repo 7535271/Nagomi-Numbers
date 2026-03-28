@@ -16,7 +16,7 @@ Beyond this linguistic connection lies a deeper mathematical resonance rooted in
 
 The fundamental relationship:
 
-**5271 ÷ 753 = 7**
+- **5271 ÷ 753 = 7**
 
 This simple division reveals a profound structure:
 
