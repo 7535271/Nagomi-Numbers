@@ -2,7 +2,7 @@
 **Mathematical Harmony Across Multiple Dimensions**
 
 ### 🌍 Read the Paper in Your Language
-[**English (Original)**](Nagomi.pdf) | [**Français**](Nagomi_FR.pdf) | [**中文**](Nagomi_CN.pdf)
+[**English**](Nagomi.pdf) | [**Français**](Nagomi_FR.pdf) | [**中文**](Nagomi_CN.pdf)
 
 ---
 
