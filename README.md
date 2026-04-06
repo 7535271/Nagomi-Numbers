@@ -63,4 +63,4 @@ The Nagomi Numbers exemplify how mathematical beauty manifests across multiple d
 
 ## Citation
 Kamiura, S., et al. (2026). *Nagomi Numbers: Mathematical Harmony Across Multiple Dimensions*. GitHub. https://github.com/7535271/Nagomi-Numbers
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19284056.svg)](https://doi.org/10.5281/zenodo.19284056)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19439755.svg)](https://doi.org/10.5281/zenodo.19439755)
