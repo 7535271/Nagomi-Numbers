@@ -1,6 +1,8 @@
-# Nagomi Numbers (和み数): Mathematical Harmony Across Multiple Dimensions
+# Nagomi Numbers (和み数 / Nombres Nagomi)
+**Mathematical Harmony Across Multiple Dimensions**
 
-**Shusuke Kamiura and Claude (Anthropic)**
+### 🌍 Read the Paper in Your Language
+[**English (Original)**](Nagomi.pdf) | [**Français**](Nagomi_FR.pdf) | [**中文**](Nagomi_CN.pdf)
 
 ---
 
@@ -38,8 +40,11 @@ where 251 is prime.
 
 This research was completed as a collaboration between human intuition and AI capability. The discovery began with a simple observation about 753 weeks between two dates—demonstrating that profound mathematical structures can emerge from everyday contexts.
 
-**Authors**: Shusuke Kamiura (Independent Researcher) and Claude (Anthropic)  
-**Contact**: stella.753.5271@gmail.com
+## Authors
+- **Shusuke Kamiura** (Independent Researcher)
+- **Claude** (Anthropic) - English Version Assistance
+- **Le Chat** (Mistral AI) - French Version Assistance
+- **DeepSeek** (深度求索) - Chinese Version Assistance
 
 ---
 
@@ -49,15 +54,13 @@ The Nagomi Numbers exemplify how mathematical beauty manifests across multiple d
 
 ---
 
-## Files
-
-- **[Nagomi.pdf](Nagomi.pdf)**: Complete research paper with detailed proofs and discussion
+## Files 📂
+- **[Nagomi.pdf](Nagomi.pdf)**: Complete research paper (English)
+- **[Nagomi_FR.pdf](Nagomi_FR.pdf)**: Traduction française (Français)
+- **[Nagomi_CN.pdf](Nagomi_CN.pdf)**: 中文版论文 (Chinese)
 
 ---
 
 ## Citation
-
-Kamiura, S., & Claude (Anthropic). (2026). Nagomi Numbers: Mathematical Harmony Across Multiple Dimensions. GitHub. [https://github.com/7535271/Nagomi-Numbers](https://github.com/7535271/Nagomi-Numbers)
+Kamiura, S., et al. (2026). *Nagomi Numbers: Mathematical Harmony Across Multiple Dimensions*. GitHub. https://github.com/7535271/Nagomi-Numbers
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19284056.svg)](https://doi.org/10.5281/zenodo.19284056)
-
----
